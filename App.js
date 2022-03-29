@@ -13,7 +13,7 @@ export default function App() {
         texto="APLICATIVOS"
         cor="#9FE2BF"
         Logo2="game-controller" 
-        texto2="JOGUINHOS" 
+        texto2="JOGOS" 
         cor2="#820066"
       />
       <Botao 
