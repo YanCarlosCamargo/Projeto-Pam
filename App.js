@@ -41,7 +41,7 @@ export default function App() {
 
           <Jogos
             titulo={item.nome}
-            valor={item.valor}
+            valor={item.valor == 0 ? "Grátis": `R$ ${item.valor}`}
             imagem={item.imagem}
           />
         )}

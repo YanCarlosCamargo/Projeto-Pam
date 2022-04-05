@@ -31,6 +31,24 @@ const JOGOS = [
         valor: 18,
         imagem: "dbz.jpg",
     },
+    {
+        id: "06",
+        nome: "Bolsonaro Arabia",
+        valor: 78.33,
+        imagem: 'bonoro-arabia.jpg',
+    },
+    {
+        id: "07",
+        nome: "Porn Bolsonaro",
+        valor: 69,
+        imagem: 'mulher-da-vida.jpg',
+    },
+    {
+        id: "08",
+        nome: "Ancient Bolsonaro",
+        valor: 7.800,
+        imagem: 'bonoro-rainha.jpg',
+    },
 ]
 
 export default JOGOS;
